@@ -3,32 +3,50 @@
 ## Functional Requirements
 
 FR1 - Allow the coach to add a player with a unique ID.
+
 FR2 - Allow the coach to search for a player using their ID or name.
+
 FR3 - Allow the coach to update a player's availability and rating.
+
 FR4 - Allow the coach to remove a player from the squad.
+
 FR5 - Generate a proposed starting XV using registered players.
+
 FR6 - Display the proposed team and show any positions that cannot be filled.
+
 FR7 - Save generated team selections in the selection history.
+
 FR8 - Allow the coach to view previous team selections.
+
 FR9 - Allow the coach to search for a previous selection.
+
 FR10 - Allow the coach to remove a previous selection.
 
 ## Non-Functional Requirements
 
 NFR1 - The application should have a simple console menu.
+
 NFR2 - Player information should be protected using encapsulation.
+
 NFR3 - The system should check player information before storing it.
+
 NFR4 - Dynamically allocated memory should be managed correctly.
+
 NFR5 - Each class should have its own responsibility.
+
 NFR6 - Team selection should give the same results when using the same player information.
+
 NFR7 - The application should handle invalid input without crashing.
+
 NFR8 - Header and source files should be kept separate.
 
 ## Assignment Requirements
 
 Current idea
+
 Tree:
 - To manage registered players.
+  
 Linked List:
 - To store previous team selections.
 
