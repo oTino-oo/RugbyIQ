@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_hJY_9hSLSdqenZEGjr1">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0nj7_SswyuHnM88qXfm1-4" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Start team selection" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-2" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontColor=#095C86;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="385" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-3" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-2" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-6" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Get registered players" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-9" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Check Availability" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-11" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Sort by position" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-13" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Select players for each position" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-15" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Display Selected starting team" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;" value="Save Team" vertex="1">
+          <mxGeometry height="40" width="140" x="330" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-17" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#095C86;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="384" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="0nj7_SswyuHnM88qXfm1-18" edge="1" parent="1" source="0nj7_SswyuHnM88qXfm1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.533;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#60E696;fontColor=#095C86;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#F694C1;" target="0nj7_SswyuHnM88qXfm1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
