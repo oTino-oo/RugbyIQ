@@ -1,3 +1,16 @@
 # RugbyIQ
 
-Rugby IQ is a C++ console application designed to help rugby coaches manage their squad and select a starting XV. It allows coaches to register and manage players, assign positions, track availability, give player ratings and select a team based on positional requirements. It also includes player searching, removal and selection history.
+Rugby IQ is a C++ program designed to help rugby coaches manage their squad and select a starting XV. It should do this by delivering on the following 
+
+It should allow coaches to:
+- Register and manage player
+- Manage Players
+- Assign positions
+- Track Player availability
+- Assign player ratings
+- Select a team based on positional requirements.
+- Player searching
+- Remove specific players 
+- View selection history.
+
+(Note to myself, need to come back and update this once it can deliver on these) !
